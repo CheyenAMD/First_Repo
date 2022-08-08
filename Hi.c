@@ -1,1 +1,2 @@
-printf("Hello bye.);
+"HELLO WORLD"
+"I AM CHE YEN"
